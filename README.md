@@ -4,6 +4,7 @@ Cybersecurity & Software Engineering | Passionate about Blockchain & Security
 </p>
 
 
+---
 
 ### 🔹 About Me  
 - 🖥️ **Cybersecurity & Software Engineering Student** at UT San Antonio  
