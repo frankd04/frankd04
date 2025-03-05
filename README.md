@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Frank! 🚀</h1>  
 <p align="center">
-Cybersecurity | Passionate about Blockchain & Security
+Cybersecurity & Software Engineering | Passionate about Blockchain & Security
 </p>
 
 ---
