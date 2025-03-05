@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Frank! 🚀</h1>  
 <p align="center">
-Cybersecurity & Software Engineering | Passionate about Blockchain & Security
+Cybersecurity | Passionate about Blockchain & Security
 </p>
 
 ---
@@ -33,5 +33,5 @@ Cybersecurity & Software Engineering | Passionate about Blockchain & Security
 
 ---
 
-⭐ **Joke:** "I told my computer I needed a break... now it’s giving me a 404 Not Found error!"  
+⭐ **Byte-Sized Humor:** "I told my computer I needed a break... now it’s giving me a 404 Not Found error!"  
 
